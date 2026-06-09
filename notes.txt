@@ -1,0 +1,7 @@
+Remember to : 
+=> design the Database schema
+=> use tags on the important commits 
+=> split your work to branches
+=> use the 3-tire architecture 
+=> commit every logical uint "dont stack commits"
+...
